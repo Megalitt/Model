@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  min-width: 400px;
+}
+.for {
+  margin: 5px;
+  font-size: 20px;
+}
+
+
+
+
